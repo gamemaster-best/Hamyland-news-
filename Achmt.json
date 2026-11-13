@@ -1,0 +1,44 @@
+[
+  {
+    "id": "getting-started",
+    "title": "Getting Started",
+    "desc": "Complete the introduction",
+    "type": "manual",
+    "target": 1,
+    "reward": 40
+  },
+  {
+    "id": "google",
+    "title": "Google Fan",
+    "desc": "Visit google.com",
+    "type": "domain",
+    "targetDomain": "google",
+    "target": 1,
+    "reward": 15
+  },
+  {
+    "id": "wiki",
+    "title": "Researcher",
+    "desc": "Visit wikipedia.org",
+    "type": "domain",
+    "targetDomain": "wikipedia",
+    "target": 1,
+    "reward": 20
+  },
+  {
+    "id": "rich",
+    "title": "Rich 100",
+    "desc": "Reach 100 Net Worth",
+    "type": "networth",
+    "target": 100,
+    "reward": 50
+  },
+  {
+    "id": "surfer",
+    "title": "Surfer",
+    "desc": "Visit 10 unique websites",
+    "type": "visits",
+    "target": 10,
+    "reward": 75
+  }
+]
