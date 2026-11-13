@@ -1,0 +1,34 @@
+[
+  {
+    "id": "top_hat",
+    "name": "Top Hat",
+    "desc": "Fancy gentleman",
+    "part": "head",
+    "img": "🎩",
+    "price": 50
+  },
+  {
+    "id": "cowboy_hat",
+    "name": "Cowboy Hat",
+    "desc": "Wild west style",
+    "part": "head",
+    "img": "🤠",
+    "price": 50
+  },
+  {
+    "id": "pirate_sword",
+    "name": "Pirate Sword",
+    "desc": "Ready for battle",
+    "part": "right_arm",
+    "img": "🗡️",
+    "price": 75
+  },
+  {
+    "id": "shield",
+    "name": "Knight Shield",
+    "desc": "Pure defense",
+    "part": "left_arm",
+    "img": "🛡️",
+    "price": 100
+  }
+]
